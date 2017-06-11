@@ -18,7 +18,7 @@
  :sass-path            "sass"
  :compass-path         "compass"
  :theme                "don_oscar"
- :resources            ["img"]
+ :resources            ["img" "CNAME"]
  :keep-files           [".git"]
  :disqus?              false
  :disqus-shortname     ""
