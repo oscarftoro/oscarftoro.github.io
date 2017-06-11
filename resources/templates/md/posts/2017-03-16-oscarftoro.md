@@ -16,7 +16,7 @@ Applying what smarter people than you and me have discovered through
 Computer Science research and Applied Mathematics.
 
 Academia is full of treasures ready to help you grow your business,
-whether you have a difficult problem to solve, or a process to automate,  [drop me a line](mailto:oscarftoro@protonmail.com?subject=helloOscar)  I will be glad to hear from you.
+whether you have a difficult problem to solve, or a process to automate, <span class="ow"> [drop me a line](mailto:oscarftoro@protonmail.com?subject=helloOscar) </span>  I will be glad to hear from you.
 
 ##### I choose to work with
 <span class='ow'><a href="http://www.erlang.org">Erlang</a> </span>,
@@ -29,8 +29,12 @@ whether you have a difficult problem to solve, or a process to automate,  [drop 
  <span class="limegreen"><a href="https://mitpress.mit.edu/books/c-precisely-0">C#</a></span>,
  <span class='ow'><a href="https://www.python.org/">Python</a></span>,
  <span class="celeste"><a href="https://www.gnu.org/software/gnu-c-manual/">C</a></span>,
- <span class="deadnuclear"><a href="https://www.postgresql.org/">PostgreSQL</a></span> and <span class='ow'><a href="https://www.rabbitmq.com/">RabbitMQ</a></span>
- in <span class="celeste"><a href="https://en.wikipedia.org/wiki/Linux">Linux</a></span>
+ <span class="deadnuclear"><a href="https://www.postgresql.org/">PostgreSQL</a></span>,
+ <span class='limegreen'><a href="https://www.rabbitmq.com/">RabbitMQ</a></span>,
+ <span class='ow'><a href="https://electron.atom.io/">Electron</a></span> and
+ <span class='celeste'><a href="http://graphql.org/">GraphQL</a></span>
+ in <span class="deadnuclear">
+ <a href="https://en.wikipedia.org/wiki/Linux">Linux</a></span>
 
 ##### I would love to work with
 
@@ -48,5 +52,13 @@ from the Computer Science Department at ITU of Copenhagen.
 * Data Analyst intern      @ *Vedsmand & Jarlstrøm Copenhagen*
 * Student Developer        @ *Report Soft Copenhagen*
 * Teaching Assistant       @ *IT University of Copenhagen*
-  - for the BSc. course Programs as Data
-  - for the MSc. course Advanced Programming
+  - for the BSc. course *Programs as Data*
+  - for the MSc. course *Advanced Programming*
+
+##### Projects
+<span class="ow">
+[GITHUB](https://github.com/oscarftoro)
+</span>
+##### Social media
+ <span class="celeste">[TWITTER](https://twitter.com/oscarftoro)</span>,
+ <span class="celeste">[LINKEDIN](https://linkedin.com/in/oscarftoro)</span>

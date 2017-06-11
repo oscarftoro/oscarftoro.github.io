@@ -1,14 +1,14 @@
 {:site-title           "oscarftoro"
- :author               "Oscar. F toro"
- :description          "I build correct solutions for the financial world"
- :site-url             "http://blogawesome.com/"
+ :author               "Oscar F. toro"
+ :description          "I build correct solutions using functional programming languages"
+ :site-url             "http://oscarftoro.com/"
  :post-root            "posts"
  :page-root            "pages"
  :post-root-uri        "posts-output"
  :page-root-uri        "pages-output"
  :tag-root-uri         "tags-output"
  :author-root-uri      "authors-output"
- :blog-prefix          "/blog"
+ :blog-prefix          "/"
  :rss-name             "feed.xml"
  :rss-filters          ["cryogen"]
  :recent-posts         3
@@ -17,7 +17,7 @@
  :sass-src             []
  :sass-path            "sass"
  :compass-path         "compass"
- :theme                "blue_centered"
+ :theme                "don_oscar"
  :resources            ["img"]
  :keep-files           [".git"]
  :disqus?              false
