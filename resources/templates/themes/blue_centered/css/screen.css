@@ -2,8 +2,33 @@
 body {
     color: #333;
     background-color: #f2f2f2;
-  
+
+
     font-size: 19px;
+}
+a {
+
+}
+
+a:hover{
+
+  filter: blur(1px);
+  text-decoration: none;
+  color: #FF00FF;
+}
+.celeste a {
+  color: #0DE0FC;
+}
+.ow a {
+  color: #FA00AB;
+}
+.limegreen a{
+  color: #DFFC00
+
+}
+
+.deadnuclear a{
+  color: #38FC48
 }
 
 .container {
