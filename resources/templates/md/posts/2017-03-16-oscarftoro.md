@@ -7,16 +7,13 @@
 ### I build simple and correct software
 #### Using the best tool for the job
 
-My name is Oscar, chilean born and raised, based in Copenhagen since 2009. Information Technology Artisan, coding functional programming since 2013 and imperative programmer since 2012. Poor, Hungry and Driven.
+My name is Oscar, chilean born and raised, based in Copenhagen since 2009. Information Technology Artisan, mostly functional programming. Poor, Hungry and Driven.
 
 
-##### I can help you
+##### What I do
 
-Applying what smarter people than you and me have discovered through
+I build IT solutions applying what smarter people than me have discovered through
 Computer Science research and Applied Mathematics.
-
-Academia is full of treasures ready to help you grow your business,
-whether you have a difficult problem to solve, or a process to automate, <span class="ow"> [drop me a line](mailto:oscarftoro@protonmail.com?subject=helloOscar) </span>  I will be glad to hear from you.
 
 ##### I choose to work with
 <span class='ow'><a href="http://www.erlang.org">Erlang</a> </span>,
