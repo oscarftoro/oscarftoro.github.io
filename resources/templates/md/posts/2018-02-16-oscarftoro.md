@@ -43,6 +43,9 @@ from the Computer Science Department at ITU of Copenhagen.
 
 ##### Currently
  Graduate student @ ITU MSc. Software Development (Advanced Computing - Programming Languages)
+ * Teaching Assistant       @ *IT University of Copenhagen*
+  - for the BSc. course *Functional Programming*
+  - for the MSc. course *Advanced Programming*
 ##### Previously
 
 * Software Engineer intern @ *Erlang Solutions Stockholm*
