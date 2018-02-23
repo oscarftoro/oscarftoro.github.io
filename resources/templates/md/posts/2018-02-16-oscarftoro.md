@@ -38,14 +38,15 @@ Computer Science research and Applied Mathematics.
 Clojure, OCaml, SML, Isabelle, Coq, Elixir or Hack.
 
 ##### I know my Computer Science Theory
-from the Computer Science Department at ITU of Copenhagen.
+from the Computer Science Department at [ITU of Copenhagen](https://www.itu.dk).
 
 
 ##### Currently
- Graduate student @ ITU MSc. Software Development (Advanced Computing - Programming Languages)
+ * Graduate student @ ITU MSc. Software Development (Advanced Computing - Programming Languages)
  * Teaching Assistant       @ *IT University of Copenhagen*
   - for the BSc. course *Functional Programming*
   - for the MSc. course *Advanced Programming*
+
 ##### Previously
 
 * Software Engineer intern @ *Erlang Solutions Stockholm*
@@ -54,6 +55,8 @@ from the Computer Science Department at ITU of Copenhagen.
 * Teaching Assistant       @ *IT University of Copenhagen*
   - for the BSc. course *Programs as Data*
   - for the MSc. course *Advanced Programming*
+* Software Developer at Krizo 
+
 
 ##### Projects
 <span class="ow">
