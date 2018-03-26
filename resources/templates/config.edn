@@ -1,7 +1,7 @@
 {:site-title           "oscarftoro"
  :author               "Oscar F. toro"
  :description          "I build correct solutions using functional programming languages"
- :site-url             "http://oscarftoro.com/"
+ :site-url             "https://oscarftoro.com/"
  :post-root            "posts"
  :page-root            "pages"
  :post-root-uri        "posts-output"

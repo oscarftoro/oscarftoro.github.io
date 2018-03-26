@@ -35,7 +35,7 @@ Computer Science Research and Applied Mathematics.
 
 ##### I would love to work with
 
-Clojure, OCaml, SML, Isabelle, Coq, Elixir or Hack.
+OCaml, SML, APL, Clojure, Isabelle, Coq, Elixir or Hack.
 
 ##### I know my Computer Science Theory
 from the Computer Science Department at [ITU of Copenhagen](https://www.itu.dk).
@@ -57,7 +57,7 @@ from the Computer Science Department at [ITU of Copenhagen](https://www.itu.dk).
 * Teaching Assistant       @ *IT University of Copenhagen*
   - for the BSc. course *Programs as Data*
   - for the MSc. course *Advanced Programming*
-* Software Developer at Krizo 
+* Software Developer       @ Krizo 
 
 
 ##### Projects
