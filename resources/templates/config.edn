@@ -1,5 +1,5 @@
 {:site-title           "oscarftoro"
- :author               "Oscar F. toro"
+ :author               "Oscar F. Toro"
  :description          "I build correct solutions using functional programming languages"
  :site-url             "https://oscarftoro.com/"
  :post-root            "posts"
