@@ -23,7 +23,7 @@ Computer Science Research and Applied Mathematics.
  <span class='ow'><a href="https://www.scala-lang.org/">Scala</a></span>,
  <span class="celeste"><a href="https://www.haskell.org/">Haskell</a></span>,
  <span class="deadnuclear"><a href="https://www.java.com">Java</a></span>,
- <span class="limegreen"><a href="https://mitpress.mit.edu/books/c-precisely-second-edition">C#</a></span>,
+ <span class="limegreen"><a href="https://mitpress.mit.edu/books/c-precisely-0">C#</a></span>,
  <span class='ow'><a href="https://www.python.org/">Python</a></span>,
  <span class="celeste"><a href="https://www.gnu.org/software/gnu-c-manual/">C</a></span>,
  <span class="deadnuclear"><a href="https://www.postgresql.org/">PostgreSQL</a></span>,
