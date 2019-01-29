@@ -18,14 +18,13 @@ Computer Science Research and Applied Mathematics.
 ##### I choose to work with
 <span class='ow'><a href="http://www.erlang.org">Erlang</a> </span>,
 <span class="celeste"><a href="http://www.fsharp.org">F#</a></span>,
- <span class="deadnuclear"><a href="https://facebook.github.io/react/">React</a></span>,
- <span class="limegreen"><a href="http://elm-lang.org/">Elm</a></span>,
  <span class='ow'><a href="https://www.scala-lang.org/">Scala</a></span>,
+ <span class="limegreen"><a href="http://elm-lang.org/">Elm</a></span>,
  <span class="celeste"><a href="https://www.haskell.org/">Haskell</a></span>,
  <span class="deadnuclear"><a href="https://www.java.com">Java</a></span>,
  <span class="limegreen"><a href="https://mitpress.mit.edu/books/c-precisely-0">C#</a></span>,
  <span class='ow'><a href="https://www.python.org/">Python</a></span>,
- <span class="celeste"><a href="https://www.gnu.org/software/gnu-c-manual/">C</a></span>,
+ <span class="celeste"><a href="https://www.rust-lang.org/">Rust</a></span>,
  <span class="deadnuclear"><a href="https://www.postgresql.org/">PostgreSQL</a></span>,
  <span class='limegreen'><a href="https://www.rabbitmq.com/">RabbitMQ</a></span>,
  <span class='ow'><a href="https://electron.atom.io/">Electron</a></span> and
@@ -35,15 +34,19 @@ Computer Science Research and Applied Mathematics.
 
 ##### I would love to work with
 
-OCaml, SML, APL, Clojure, Isabelle, Coq, Elixir or Hack.
+Clojure, ReasonML, OCaml, Elixir, SML, APL, Isabelle, Coq or Hack.
 
 ##### I know my Computer Science Theory
-from the Computer Science Department at [ITU of Copenhagen](https://www.itu.dk).
+from the Computer Science Department at [ITU of Copenhagen](https://en.itu.dk/programmes/msc-programmes/computer-science).
 
+##### When I am not implementing algorithms, reading papers or finding problems
+ I intent to meet likeminded people on my spare time, which are around 6 in the big Copenhagen area.
+  We meet [once a month since 2013](https://www.meetup.com/MoedegruppeFunktionelleKoebenhavnere/).
 
 ##### Currently
- * Graduate student @ ITU MSc. Information Technology (Advanced Computing - Programming Languages)
-   - writing my thesis.
+
+* Dialoguing with enterprises within the Copenhagen Area and the European Union for a potential  cooperation.
+* Hacking on [Binary Decision Diagrams](https://github.com/oscarftoro/bandidoFSharp)
 
 
 ##### Previously
@@ -51,13 +54,12 @@ from the Computer Science Department at [ITU of Copenhagen](https://www.itu.dk).
 * Software Engineer intern @ *Erlang Solutions Stockholm*
 * Data Analyst intern      @ *Vedsmand & Jarlstrøm Copenhagen*
 * Student Developer        @ *Report Soft Copenhagen*
-* Software Developer       @ Krizo 
+* Software Developer       @ *Krizo* 
 * Teaching Assistant       @ *IT University of Copenhagen*
   - for the BSc. course *Programs as Data*
   - for the MSc. course *Advanced Programming* (twice)
   - for the BSc. course *Functional Programming*
-
-
+* Graduate student MSc. Information Technology (Advanced Computing - Programming Languages) @ *ITU of Copenhagen*
 
 ##### Projects
 <span class="ow">
