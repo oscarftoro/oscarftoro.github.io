@@ -68,3 +68,6 @@ from the Computer Science Department at [ITU of Copenhagen](https://en.itu.dk/pr
 ##### Social media
  <span class="celeste">[TWITTER](https://twitter.com/oscarftoro)</span>,
  <span class="celeste">[LINKEDIN](https://linkedin.com/in/oscarftoro)</span>
+
+##### Contact
+oscarftoro at protonmail dot com
